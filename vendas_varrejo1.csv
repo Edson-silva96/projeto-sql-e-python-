@@ -1,0 +1,501 @@
+Unnamed: 0,Data da Venda,Nome da Loja,UF da Compra,Nome do Produto,Categoria do Produto,Marca do Produto,Quantidade,Valor da Venda,preço_por_uni
+0,2023-05-06,Supermercado Mundial,SP,Leite,Frutas,Sadia,19.0,44.98,2.367368421052632
+1,2022-09-04,Supermercado Bom PreÃ§o,RS,Carne Bovina,Frutas,Dona Benta,18.0,60.91,3.3838888888888885
+2,2022-12-09,Mercadinho do Lar,MG,Banana,Frutas,ItambÃ©,9.0,37.84,4.204444444444444
+3,2023-05-15,Supermercado Mundial,MG,Leite,Frutas,Qualy,9.0,44.25,4.916666666666667
+4,2023-06-25,Supermercado Bom PreÃ§o,SP,Queijo,Frutas,Vigor,8.0,28.17,3.52125
+5,2023-12-22,Supermercado Popular,RS,Carne Bovina,Frutas,PerdigÃ£o,16.0,16.09,1.005625
+6,2023-09-02,Supermercado Popular,SP,Carne Bovina,Frutas,Yoki,13.0,92.64,7.126153846153846
+7,2023-09-18,Supermercado VarejÃ£o,RJ,Carne Bovina,Frutas,Sadia,4.0,96.15,24.0375
+8,2023-09-16,MercadÃ£o Central,RS,Carne Bovina,Frutas,Yoki,16.0,5.79,0.361875
+9,2023-06-29,Mercadinho do Lar,SP,Carne Bovina,Frutas,Qualy,3.0,33.55,11.183333333333332
+10,2022-11-19,AtacadÃ£o da Dutra,SP,MaÃ§Ã£,Frutas,Heinz,18.0,54.18,3.01
+11,2022-05-06,Mini Mercado SÃ£o JoÃ£o,MG,Queijo,Frutas,Friboi,9.0,30.7,3.411111111111111
+12,2022-02-03,Supermercado Mundial,SP,Banana,Frutas,Arcor,9.0,7.16,0.7955555555555556
+13,2023-01-04,Hipermercado EconÃ´mico,MG,Queijo,Frutas,NestlÃ©,6.0,78.47,13.078333333333331
+14,2022-02-17,Supermercado Tudo de Bom,SP,BrÃ³colis,Frutas,Tirolez,15.0,46.71,3.114
+15,2023-06-14,AtacadÃ£o da Dutra,RS,Carne Bovina,Frutas,Dona Benta,3.0,79.23,26.41
+16,2023-04-10,Supermercado Tudo de Bom,RS,Cenoura,Frutas,Friboi,1.0,22.9,22.9
+17,2022-01-21,Supermercado Bom PreÃ§o,RJ,Cenoura,Frutas,ItambÃ©,5.0,52.32,10.464
+18,2023-07-27,Supermercado Tudo de Bom,SP,Banana,Frutas,ItambÃ©,14.0,50.89,3.635
+19,2022-10-18,Mercadinho do Povo,SP,Carne Bovina,Frutas,Dona Benta,8.0,86.83,10.85375
+20,2023-10-20,Hiper Center,MG,Carne Bovina,Frutas,Tirolez,14.0,68.76,4.911428571428572
+21,2022-03-24,Lojinha do Bairro,RS,MaÃ§Ã£,Frutas,ItambÃ©,1.0,78.04,78.04
+22,2022-02-14,Mercadinho do Povo,MG,Banana,Frutas,Adria,12.0,17.02,1.4183333333333332
+23,2023-10-18,Supermercado Mundial,RJ,Cenoura,Frutas,Heinz,16.0,87.24,5.4525
+24,2023-05-10,Supermercado Mundial,RS,Cenoura,Frutas,PerdigÃ£o,5.0,31.48,6.296
+25,2023-02-01,Hiper Center,RS,Cenoura,Frutas,Adria,16.0,88.05,5.503125
+26,2022-12-12,Supermercado VarejÃ£o,SP,Leite,Frutas,Tirolez,16.0,21.35,1.334375
+27,2022-06-10,Mini Mercado SÃ£o JoÃ£o,MG,Carne Bovina,Frutas,Yoki,18.0,1.74,0.0966666666666666
+28,2022-01-21,Supermarket Plus,RS,BrÃ³colis,Frutas,Quaker,18.0,33.49,1.860555555555556
+29,2022-06-28,Mercado Total,SP,BrÃ³colis,Frutas,Arcor,18.0,30.65,1.7027777777777775
+30,2022-09-18,Mercado da FamÃ­lia,RS,Cenoura,Frutas,Yoki,15.0,81.73,5.448666666666667
+31,2023-09-15,Mercadinho Central,RS,BrÃ³colis,Frutas,Vigor,12.0,57.35,4.779166666666667
+32,2022-05-26,AtacadÃ£o da Dutra,RJ,Carne Bovina,Frutas,Heinz,14.0,93.48,6.677142857142857
+33,2022-03-01,Lojinha do Bairro,RS,Carne Bovina,Frutas,ItambÃ©,16.0,19.23,1.201875
+34,2022-12-08,Mercadinho Central,RS,Frango,Frutas,Quaker,12.0,57.57,4.7975
+35,2023-05-20,Supermercado Popular,RS,Banana,Frutas,ItambÃ©,1.0,77.85,77.85
+36,2022-03-27,Hipermercado EconÃ´mico,SP,Leite,Frutas,ItambÃ©,12.0,71.45,5.954166666666667
+37,2023-10-24,Supermercado Popular,SP,Queijo,Frutas,Adria,9.0,87.57,9.73
+38,2023-12-26,Mercadinho Central,RS,BrÃ³colis,Frutas,Friboi,19.0,13.83,0.7278947368421053
+39,2023-11-06,Lojinha do Bairro,MG,BrÃ³colis,Frutas,Aurora,16.0,59.44,3.715
+40,2023-03-02,Hipermercado EconÃ´mico,RJ,Frango,Frutas,Friboi,9.0,35.54,3.948888888888889
+41,2023-09-07,Supermercado Tudo de Bom,MG,Queijo,Frutas,Qualy,11.0,99.05,9.004545454545454
+42,2022-03-26,Mercado da FamÃ­lia,SP,MaÃ§Ã£,Frutas,Dona Benta,3.0,26.28,8.76
+43,2023-07-01,Mini Mercado SÃ£o JoÃ£o,RJ,BrÃ³colis,Frutas,Arcor,7.0,10.89,1.5557142857142858
+44,2022-09-17,Quitanda da Esquina,MG,Leite,Frutas,Piracanjuba,10.0,1.17,0.1169999999999999
+45,2022-06-28,Supermercado VarejÃ£o,RJ,Leite,Frutas,Heinz,14.0,45.29,3.235
+46,2023-10-18,Hipermercado EconÃ´mico,SP,Banana,Frutas,Seara,5.0,4.67,0.934
+47,2022-05-30,Hipermercado EconÃ´mico,SP,BrÃ³colis,Frutas,Qualy,4.0,63.94,15.985
+48,2022-05-20,Mercado Fresquinho,MG,Cenoura,Frutas,Aurora,12.0,48.49,4.0408333333333335
+49,2022-10-24,Mercadinho do Povo,SP,MaÃ§Ã£,Frutas,Bauducco,6.0,80.94,13.49
+50,2023-02-28,MercadÃ£o Central,MG,Carne Bovina,Frutas,ItambÃ©,10.0,69.04,6.904000000000001
+51,2022-09-28,Hiper Center,RJ,Cenoura,Frutas,Piracanjuba,8.0,81.36,10.17
+52,2022-04-12,Lojinha do Bairro,MG,Queijo,Frutas,Quaker,13.0,62.24,4.787692307692308
+53,2023-06-23,AtacadÃ£o da Dutra,RJ,BrÃ³colis,Frutas,Piracanjuba,6.0,67.99,11.331666666666663
+54,2022-09-25,AtacadÃ£o da Dutra,SP,Queijo,Frutas,Qualy,15.0,8.82,0.588
+55,2023-03-07,Supermercado Popular,MG,Frango,Frutas,Quaker,9.0,29.45,3.272222222222222
+56,2022-05-25,Mercadinho do Lar,MG,Cenoura,Frutas,Quaker,13.0,50.33,3.871538461538461
+57,2023-03-09,Mercadinho do Lar,SP,Frango,Frutas,Seara,7.0,12.89,1.8414285714285716
+58,2022-04-01,Mercado Fresquinho,RS,Banana,Frutas,Friboi,2.0,5.0,2.5
+59,2023-06-26,Mercadinho do Lar,MG,Leite,Frutas,Dona Benta,10.0,14.4,1.44
+60,2022-03-17,Supermarket Plus,MG,Frango,Frutas,Arcor,14.0,34.93,2.495
+61,2023-08-31,Mercado da FamÃ­lia,RS,BrÃ³colis,Frutas,Piracanjuba,4.0,21.67,5.4175
+62,2023-03-14,Quitanda da Esquina,MG,BrÃ³colis,Frutas,NestlÃ©,5.0,81.37,16.274
+63,2023-06-25,Supermercado Popular,SP,MaÃ§Ã£,Frutas,Vigor,18.0,64.85,3.6027777777777774
+64,2023-12-26,Mercadinho do Povo,RJ,Queijo,Frutas,Yoki,9.0,56.92,6.3244444444444445
+65,2022-01-17,Mercadinho Central,RS,Leite,Frutas,Garoto,16.0,17.3,1.08125
+66,2022-03-19,Quitanda da Esquina,SP,Cenoura,Frutas,ItambÃ©,1.0,83.94,83.94
+67,2022-06-23,Supermercado Mundial,MG,Leite,Frutas,Garoto,9.0,98.21,10.91222222222222
+68,2023-09-05,Supermercado Popular,RS,MaÃ§Ã£,Frutas,Sadia,15.0,97.42,6.494666666666666
+69,2022-07-23,Quitanda da Esquina,RJ,Cenoura,Frutas,Heinz,15.0,30.24,2.016
+70,2023-11-18,Mercado Total,SP,Cenoura,Frutas,Tirolez,13.0,93.86,7.22
+71,2023-01-08,Supermercado VarejÃ£o,MG,Frango,Frutas,Friboi,16.0,59.79,3.736875
+72,2022-07-20,Mercadinho do Povo,MG,Leite,Frutas,Tirolez,3.0,41.59,13.863333333333337
+73,2022-08-28,Mini Mercado SÃ£o JoÃ£o,MG,Carne Bovina,Frutas,Vigor,18.0,19.79,1.0994444444444444
+74,2023-02-14,Hipermercado EconÃ´mico,MG,Frango,Frutas,Yoki,7.0,38.03,5.432857142857143
+75,2023-09-29,Supermercado Bom PreÃ§o,RS,Leite,Frutas,Bauducco,4.0,1.75,0.4375
+76,2023-02-04,Supermercado Popular,RS,Leite,Frutas,Arcor,8.0,65.6,8.2
+77,2022-12-12,Mercado Total,RJ,MaÃ§Ã£,Frutas,Bauducco,18.0,19.27,1.0705555555555557
+78,2022-11-12,Mercado Fresquinho,MG,Leite,Frutas,Aurora,11.0,29.26,2.66
+79,2022-02-15,Mercadinho do Lar,RJ,Cenoura,Frutas,Friboi,4.0,82.61,20.6525
+80,2023-03-30,Quitanda da Esquina,RJ,Cenoura,Frutas,Garoto,7.0,46.05,6.578571428571428
+81,2023-11-24,Supermercado EsperanÃ§a,MG,Frango,Frutas,Aurora,17.0,25.41,1.494705882352941
+82,2022-12-17,Supermercado Tudo de Bom,MG,Leite,Frutas,Arcor,18.0,9.42,0.5233333333333333
+83,2023-09-16,Supermercado EsperanÃ§a,MG,BrÃ³colis,Frutas,Friboi,19.0,80.73,4.248947368421053
+84,2022-02-23,Supermercado Tudo de Bom,RJ,Cenoura,Frutas,Yoki,18.0,95.79,5.321666666666667
+85,2023-12-29,Lojinha do Bairro,SP,MaÃ§Ã£,Frutas,Garoto,1.0,92.67,92.67
+86,2023-02-11,Supermercado Popular,RJ,BrÃ³colis,Frutas,Tirolez,2.0,80.2,40.1
+87,2023-02-13,Mercadinho do Lar,RS,Leite,Frutas,Friboi,8.0,29.1,3.6375
+88,2023-01-11,Mercadinho Central,SP,MaÃ§Ã£,Frutas,Arcor,8.0,67.9,8.4875
+89,2022-02-22,Hiper Center,RJ,Queijo,Frutas,Adria,9.0,19.1,2.1222222222222222
+90,2022-03-14,Mini Mercado SÃ£o JoÃ£o,RS,Frango,Frutas,PerdigÃ£o,19.0,47.07,2.477368421052632
+91,2023-10-13,Supermercado Bom PreÃ§o,MG,Leite,Frutas,Sadia,1.0,87.38,87.38
+92,2022-09-02,Lojinha do Bairro,RS,Carne Bovina,Frutas,Garoto,14.0,27.84,1.9885714285714289
+93,2022-10-04,Supermercado Bom PreÃ§o,MG,BrÃ³colis,Frutas,Yoki,11.0,23.87,2.17
+94,2023-11-17,Hipermercado EconÃ´mico,MG,Cenoura,Frutas,Lacta,18.0,65.91,3.661666666666666
+95,2022-01-13,Lojinha do Bairro,MG,BrÃ³colis,Frutas,Vigor,13.0,26.32,2.0246153846153847
+96,2022-09-11,Hipermercado EconÃ´mico,RS,Banana,Frutas,Piracanjuba,2.0,29.58,14.79
+97,2023-02-22,Mercado Total,SP,Leite,Frutas,Quaker,2.0,56.46,28.23
+98,2023-11-23,MercadÃ£o Central,RS,Frango,Frutas,Quaker,10.0,49.64,4.964
+99,2023-04-29,MercadÃ£o Central,RJ,MaÃ§Ã£,Frutas,Aurora,9.0,48.09,5.343333333333334
+100,2023-07-24,Mercadinho do Lar,RS,MaÃ§Ã£,Frutas,Friboi,4.0,25.27,6.3175
+101,2023-06-09,MercadÃ£o Central,SP,Cenoura,Frutas,Piracanjuba,11.0,87.76,7.978181818181818
+102,2022-03-24,Supermercado Popular,MG,Frango,Frutas,Lacta,3.0,75.07,25.02333333333333
+103,2023-10-12,Mini Mercado SÃ£o JoÃ£o,SP,Carne Bovina,Frutas,Seara,17.0,71.98,4.234117647058824
+104,2022-01-31,Mercadinho Central,RS,Banana,Frutas,Arcor,13.0,90.41,6.954615384615384
+105,2023-11-01,Mini Mercado SÃ£o JoÃ£o,RS,Frango,Frutas,NestlÃ©,1.0,31.15,31.15
+106,2022-01-11,Mercadinho do Povo,SP,Carne Bovina,Frutas,Sadia,5.0,23.57,4.714
+107,2022-07-22,Supermercado Tudo de Bom,MG,Carne Bovina,Frutas,Dona Benta,1.0,57.9,57.9
+108,2023-07-25,Supermarket Plus,RJ,Carne Bovina,Frutas,Bauducco,12.0,59.82,4.985
+109,2023-09-05,Mercado Fresquinho,MG,Queijo,Frutas,Dona Benta,9.0,40.9,4.544444444444444
+110,2022-06-05,Hiper Center,SP,Banana,Frutas,Arcor,4.0,27.2,6.8
+111,2022-02-12,Mini Mercado SÃ£o JoÃ£o,MG,Cenoura,Frutas,Sadia,18.0,10.43,0.5794444444444444
+112,2023-11-22,Mercadinho Central,RJ,Banana,Frutas,Sadia,6.0,18.33,3.055
+113,2023-03-27,Lojinha do Bairro,SP,Banana,Frutas,Quaker,11.0,4.35,0.3954545454545454
+114,2022-02-10,Mini Mercado SÃ£o JoÃ£o,SP,Banana,Frutas,Vigor,18.0,72.7,4.038888888888889
+115,2022-01-20,Mini Mercado SÃ£o JoÃ£o,SP,Frango,Frutas,Vigor,3.0,32.04,10.68
+116,2023-08-06,Supermarket Plus,RJ,Queijo,Frutas,Qualy,9.0,38.14,4.237777777777778
+117,2023-08-27,MercadÃ£o Central,RJ,BrÃ³colis,Frutas,Seara,8.0,17.56,2.195
+118,2022-12-24,Supermercado EsperanÃ§a,RJ,Carne Bovina,Frutas,Sadia,16.0,68.05,4.253125
+119,2022-02-23,AtacadÃ£o da Dutra,RJ,MaÃ§Ã£,Frutas,ItambÃ©,19.0,65.69,3.457368421052632
+120,2022-09-23,Supermercado Popular,MG,MaÃ§Ã£,Frutas,Seara,19.0,64.68,3.40421052631579
+121,2022-07-20,Mercadinho do Povo,SP,Cenoura,Frutas,Aurora,15.0,91.66,6.110666666666666
+122,2023-06-03,Quitanda da Esquina,RJ,Banana,Frutas,Vigor,13.0,13.26,1.02
+123,2023-04-11,Supermercado Bom PreÃ§o,RJ,Carne Bovina,Frutas,PerdigÃ£o,19.0,33.4,1.7578947368421052
+124,2022-12-18,Hipermercado EconÃ´mico,MG,Banana,Frutas,NestlÃ©,3.0,6.92,2.306666666666666
+125,2022-06-23,Supermercado Mundial,RS,Cenoura,Frutas,Tirolez,13.0,71.44,5.495384615384615
+126,2022-04-07,Supermercado EsperanÃ§a,RS,Queijo,Frutas,Garoto,18.0,89.94,4.996666666666666
+127,2023-09-10,Mercado da FamÃ­lia,RS,Queijo,Frutas,Aurora,16.0,19.14,1.19625
+128,2023-09-25,Supermercado Bom PreÃ§o,RJ,MaÃ§Ã£,Frutas,NestlÃ©,5.0,2.85,0.5700000000000001
+129,2022-08-14,Supermarket Plus,MG,Leite,Frutas,Sadia,9.0,74.44,8.27111111111111
+130,2023-11-29,Mercado Fresquinho,RJ,Frango,Frutas,Dona Benta,15.0,19.34,1.2893333333333332
+131,2022-03-21,Mercado da FamÃ­lia,RS,BrÃ³colis,Frutas,Piracanjuba,17.0,4.02,0.2364705882352941
+132,2022-08-10,Lojinha do Bairro,SP,Queijo,Frutas,Bauducco,15.0,64.95,4.33
+133,2022-03-10,Supermercado Mundial,MG,Cenoura,Frutas,Vigor,17.0,50.58,2.975294117647058
+134,2022-12-06,Supermercado Tudo de Bom,RS,Carne Bovina,Frutas,Dona Benta,16.0,52.37,3.273125
+135,2023-09-25,Lojinha do Bairro,MG,Banana,Frutas,Friboi,19.0,46.21,2.432105263157895
+136,2022-12-12,Quitanda da Esquina,MG,MaÃ§Ã£,Frutas,NestlÃ©,11.0,63.05,5.7318181818181815
+137,2022-01-07,Lojinha do Bairro,SP,Carne Bovina,Frutas,Bauducco,2.0,39.53,19.765
+138,2023-09-16,Supermercado VarejÃ£o,RS,Queijo,Frutas,Tirolez,9.0,1.29,0.1433333333333333
+139,2022-08-25,Supermercado Tudo de Bom,RJ,Carne Bovina,Frutas,Aurora,2.0,37.96,18.98
+140,2023-05-11,Mercado da FamÃ­lia,MG,Cenoura,Frutas,Qualy,15.0,30.41,2.027333333333333
+141,2022-09-05,Supermarket Plus,SP,Cenoura,Frutas,PerdigÃ£o,10.0,92.41,9.241
+142,2022-03-22,Hiper Center,RJ,BrÃ³colis,Frutas,Seara,4.0,91.72,22.93
+143,2022-03-25,Mercadinho do Povo,SP,MaÃ§Ã£,Frutas,Adria,15.0,27.99,1.866
+144,2022-07-03,Mercado Total,RS,BrÃ³colis,Frutas,Qualy,5.0,67.65,13.53
+145,2022-04-06,Mercado da FamÃ­lia,RJ,Cenoura,Frutas,Lacta,14.0,35.66,2.5471428571428567
+146,2023-10-29,Supermercado Popular,MG,Banana,Frutas,Vigor,3.0,57.47,19.156666666666663
+147,2023-06-14,Supermercado Bom PreÃ§o,SP,Carne Bovina,Frutas,Arcor,6.0,99.55,16.591666666666665
+148,2022-11-20,Lojinha do Bairro,SP,Banana,Frutas,Quaker,16.0,32.27,2.016875
+149,2023-05-10,Supermarket Plus,SP,Queijo,Frutas,Adria,15.0,6.02,0.4013333333333333
+150,2022-08-09,MercadÃ£o Central,SP,Leite,Frutas,Lacta,9.0,98.49,10.943333333333332
+151,2022-05-02,Hipermercado EconÃ´mico,MG,Frango,Frutas,Heinz,4.0,85.93,21.4825
+152,2022-10-24,Mercadinho do Povo,RJ,Queijo,Frutas,Seara,4.0,60.41,15.1025
+153,2023-11-13,Hiper Center,MG,Frango,Frutas,Quaker,1.0,47.61,47.61
+154,2023-09-19,Supermercado VarejÃ£o,RS,Banana,Frutas,Qualy,8.0,98.17,12.27125
+155,2022-11-12,Supermercado EsperanÃ§a,SP,Banana,Frutas,PerdigÃ£o,12.0,19.99,1.6658333333333333
+156,2022-10-05,Hipermercado EconÃ´mico,MG,Frango,Frutas,Vigor,8.0,31.84,3.98
+157,2023-08-17,Supermercado Tudo de Bom,RS,Cenoura,Frutas,Adria,2.0,31.84,15.92
+158,2022-07-08,Quitanda da Esquina,MG,BrÃ³colis,Frutas,Garoto,18.0,63.67,3.5372222222222223
+159,2022-05-09,Hiper Center,RS,Carne Bovina,Frutas,Lacta,9.0,92.1,10.233333333333333
+160,2022-01-29,Supermercado Bom PreÃ§o,MG,Frango,Frutas,Piracanjuba,4.0,58.81,14.7025
+161,2022-03-22,Lojinha do Bairro,SP,Queijo,Frutas,Sadia,16.0,86.31,5.394375
+162,2023-02-19,Mercado da FamÃ­lia,RJ,Frango,Frutas,Garoto,15.0,69.37,4.624666666666667
+163,2022-08-21,Supermercado Tudo de Bom,MG,Banana,Frutas,Heinz,15.0,75.7,5.046666666666667
+164,2023-05-13,Mini Mercado SÃ£o JoÃ£o,SP,Cenoura,Frutas,Dona Benta,7.0,81.7,11.671428571428573
+165,2023-04-07,Mini Mercado SÃ£o JoÃ£o,MG,MaÃ§Ã£,Frutas,Vigor,9.0,71.43,7.936666666666667
+166,2022-11-21,Supermercado Bom PreÃ§o,MG,BrÃ³colis,Frutas,Tirolez,8.0,56.46,7.0575
+167,2023-08-24,Mercado Fresquinho,SP,MaÃ§Ã£,Frutas,Tirolez,7.0,60.63,8.661428571428571
+168,2022-09-03,Supermercado Tudo de Bom,RJ,Banana,Frutas,PerdigÃ£o,10.0,77.77,7.776999999999999
+169,2022-10-09,Quitanda da Esquina,RS,Frango,Frutas,NestlÃ©,17.0,87.24,5.131764705882353
+170,2023-08-11,Supermercado Mundial,RS,Banana,Frutas,ItambÃ©,18.0,22.27,1.2372222222222222
+171,2023-05-03,Mercadinho do Lar,SP,Banana,Frutas,Adria,14.0,93.66,6.69
+172,2022-10-24,Mercado Total,RS,Cenoura,Frutas,PerdigÃ£o,3.0,78.67,26.223333333333333
+173,2023-07-09,Mercadinho Central,RS,Frango,Frutas,Qualy,17.0,46.37,2.7276470588235293
+174,2022-12-14,Mini Mercado SÃ£o JoÃ£o,MG,Banana,Frutas,Sadia,19.0,53.8,2.831578947368421
+175,2022-05-04,Supermercado Tudo de Bom,MG,Banana,Frutas,Qualy,5.0,70.14,14.028
+176,2023-01-20,Supermercado Mundial,RS,BrÃ³colis,Frutas,Tirolez,12.0,3.33,0.2775
+177,2023-01-09,Supermercado Mundial,MG,Queijo,Frutas,ItambÃ©,11.0,78.64,7.149090909090909
+178,2023-08-12,Supermercado Mundial,SP,Queijo,Frutas,Aurora,6.0,3.59,0.5983333333333333
+179,2023-04-02,Mercado da FamÃ­lia,RS,Banana,Frutas,Vigor,5.0,36.64,7.328
+180,2023-08-16,Mercadinho Central,RS,Cenoura,Frutas,Sadia,18.0,38.92,2.1622222222222223
+181,2022-02-26,Hipermercado EconÃ´mico,MG,Carne Bovina,Frutas,Adria,1.0,80.14,80.14
+182,2022-09-17,Supermarket Plus,RS,Queijo,Frutas,Seara,5.0,94.77,18.954
+183,2022-12-14,Mercado da FamÃ­lia,RJ,MaÃ§Ã£,Frutas,Arcor,3.0,81.4,27.133333333333336
+184,2023-05-28,MercadÃ£o Central,MG,MaÃ§Ã£,Frutas,Adria,19.0,19.26,1.013684210526316
+185,2022-09-24,Supermercado Mundial,RS,Cenoura,Frutas,Bauducco,16.0,83.93,5.245625
+186,2022-10-26,Mini Mercado SÃ£o JoÃ£o,MG,BrÃ³colis,Frutas,Tirolez,10.0,66.3,6.63
+187,2023-05-13,Supermercado Bom PreÃ§o,MG,BrÃ³colis,Frutas,ItambÃ©,18.0,58.57,3.253888888888889
+188,2022-01-29,Mini Mercado SÃ£o JoÃ£o,SP,Queijo,Frutas,Friboi,17.0,76.57,4.504117647058823
+189,2022-12-07,MercadÃ£o Central,MG,Cenoura,Frutas,Seara,7.0,49.72,7.102857142857142
+190,2023-04-10,Supermercado Popular,RJ,Cenoura,Frutas,Sadia,1.0,78.78,78.78
+191,2022-01-30,Supermarket Plus,RS,Queijo,Frutas,Yoki,7.0,87.45,12.492857142857144
+192,2022-01-27,Mercado da FamÃ­lia,MG,BrÃ³colis,Frutas,Bauducco,5.0,97.11,19.422
+193,2022-05-12,Supermercado VarejÃ£o,RJ,Carne Bovina,Frutas,NestlÃ©,9.0,80.57,8.952222222222222
+194,2022-11-10,Mercadinho Central,RJ,Banana,Frutas,Arcor,2.0,93.98,46.99
+195,2023-03-21,Hipermercado EconÃ´mico,SP,Cenoura,Frutas,Friboi,15.0,84.13,5.608666666666666
+196,2022-03-15,Quitanda da Esquina,RS,Frango,Frutas,Vigor,7.0,47.22,6.7457142857142856
+197,2023-02-21,Mercadinho Central,RJ,Carne Bovina,Frutas,Dona Benta,16.0,24.36,1.5225
+198,2023-03-25,Supermercado Bom PreÃ§o,RS,Carne Bovina,Frutas,Quaker,14.0,39.65,2.832142857142857
+199,2023-12-21,Supermarket Plus,MG,BrÃ³colis,Frutas,Friboi,11.0,95.08,8.643636363636363
+200,2022-11-15,Hipermercado EconÃ´mico,SP,Queijo,Frutas,Bauducco,10.0,59.37,5.936999999999999
+201,2022-07-05,Supermercado VarejÃ£o,MG,Leite,Frutas,Bauducco,1.0,15.97,15.97
+202,2023-05-18,Mercado Fresquinho,RS,MaÃ§Ã£,Frutas,Aurora,5.0,7.11,1.4220000000000002
+203,2022-05-05,AtacadÃ£o da Dutra,SP,Carne Bovina,Frutas,Lacta,19.0,65.54,3.4494736842105267
+204,2022-01-06,Mercadinho do Lar,MG,Banana,Frutas,Vigor,6.0,78.36,13.06
+205,2022-10-20,Mercado Fresquinho,RJ,BrÃ³colis,Frutas,Yoki,2.0,15.95,7.975
+206,2022-07-22,Supermercado Popular,RJ,Frango,Frutas,Friboi,11.0,53.9,4.9
+207,2022-10-28,Mercado Total,MG,Banana,Frutas,Arcor,2.0,6.48,3.24
+208,2023-11-22,MercadÃ£o Central,RS,Leite,Frutas,Sadia,12.0,97.31,8.109166666666667
+209,2023-05-14,Mercado Fresquinho,RJ,Leite,Frutas,ItambÃ©,8.0,92.88,11.61
+210,2023-12-21,Mercadinho do Lar,RS,Cenoura,Frutas,Dona Benta,4.0,84.67,21.1675
+211,2022-11-11,Supermercado Tudo de Bom,SP,Queijo,Frutas,PerdigÃ£o,6.0,6.32,1.0533333333333337
+212,2022-12-08,Mercadinho Central,SP,Queijo,Frutas,Piracanjuba,16.0,25.74,1.60875
+213,2023-04-04,Mini Mercado SÃ£o JoÃ£o,RS,Banana,Frutas,Aurora,17.0,35.87,2.11
+214,2023-09-23,Mercadinho do Povo,SP,Leite,Frutas,Friboi,19.0,10.29,0.541578947368421
+215,2023-04-04,Supermercado EsperanÃ§a,SP,Queijo,Frutas,ItambÃ©,7.0,17.97,2.567142857142857
+216,2023-11-17,Mercadinho do Lar,RJ,Leite,Frutas,Arcor,14.0,53.14,3.795714285714286
+217,2022-06-29,Hiper Center,MG,BrÃ³colis,Frutas,Sadia,3.0,28.23,9.41
+218,2022-03-21,Mini Mercado SÃ£o JoÃ£o,SP,Carne Bovina,Frutas,Qualy,12.0,51.19,4.265833333333333
+219,2022-10-21,Mercado da FamÃ­lia,RJ,BrÃ³colis,Frutas,NestlÃ©,12.0,74.04,6.170000000000001
+220,2022-09-27,Mercadinho Central,RS,Cenoura,Frutas,Vigor,13.0,21.37,1.643846153846154
+221,2022-04-30,Mercado Fresquinho,SP,MaÃ§Ã£,Frutas,Adria,16.0,33.08,2.0675
+222,2022-10-18,Supermarket Plus,MG,Banana,Frutas,Adria,12.0,2.74,0.2283333333333333
+223,2023-01-23,MercadÃ£o Central,SP,Leite,Frutas,PerdigÃ£o,11.0,41.82,3.8018181818181818
+224,2022-03-29,Supermercado Tudo de Bom,MG,Leite,Frutas,Yoki,12.0,85.16,7.096666666666667
+225,2023-03-28,MercadÃ£o Central,RS,Frango,Frutas,Vigor,9.0,16.92,1.88
+226,2022-01-13,Hipermercado EconÃ´mico,RS,MaÃ§Ã£,Frutas,Aurora,11.0,53.7,4.881818181818182
+227,2022-04-21,Supermercado Tudo de Bom,RS,Queijo,Frutas,Adria,3.0,43.49,14.496666666666668
+228,2023-03-12,Hiper Center,MG,Queijo,Frutas,Lacta,19.0,35.94,1.891578947368421
+229,2022-09-05,Hiper Center,MG,Leite,Frutas,ItambÃ©,7.0,82.59,11.79857142857143
+230,2022-07-16,Hipermercado EconÃ´mico,SP,Frango,Frutas,Heinz,1.0,67.13,67.13
+231,2022-10-02,Mercadinho do Povo,MG,Cenoura,Frutas,Sadia,14.0,96.18,6.87
+232,2023-09-28,Mercado Fresquinho,RS,MaÃ§Ã£,Frutas,Heinz,8.0,39.55,4.94375
+233,2023-01-20,Supermercado EsperanÃ§a,SP,MaÃ§Ã£,Frutas,Garoto,10.0,99.64,9.964
+234,2022-11-30,Supermercado VarejÃ£o,MG,BrÃ³colis,Frutas,Quaker,11.0,92.18,8.38
+235,2023-12-09,Supermercado Tudo de Bom,MG,MaÃ§Ã£,Frutas,Arcor,10.0,64.52,6.452
+236,2023-01-29,Mini Mercado SÃ£o JoÃ£o,SP,Banana,Frutas,Yoki,3.0,94.36,31.453333333333333
+237,2022-09-10,Mercadinho do Povo,RS,Cenoura,Frutas,Lacta,17.0,11.27,0.6629411764705883
+238,2022-09-03,Supermercado VarejÃ£o,SP,Frango,Frutas,NestlÃ©,3.0,51.62,17.206666666666667
+239,2022-11-26,Mercadinho Central,RJ,Leite,Frutas,Sadia,3.0,24.68,8.226666666666667
+240,2023-04-30,Hipermercado EconÃ´mico,SP,Queijo,Frutas,Tirolez,12.0,36.35,3.029166666666667
+241,2022-04-11,AtacadÃ£o da Dutra,MG,Banana,Frutas,Quaker,19.0,48.2,2.5368421052631582
+242,2022-02-28,MercadÃ£o Central,RS,Banana,Frutas,Friboi,9.0,64.08,7.12
+243,2022-02-23,Hiper Center,MG,Carne Bovina,Frutas,NestlÃ©,13.0,6.41,0.4930769230769231
+244,2023-01-29,Supermarket Plus,MG,Frango,Frutas,NestlÃ©,2.0,90.27,45.135
+245,2022-07-29,AtacadÃ£o da Dutra,RJ,Cenoura,Frutas,PerdigÃ£o,11.0,48.32,4.392727272727273
+246,2023-06-23,AtacadÃ£o da Dutra,SP,Frango,Frutas,Quaker,8.0,15.51,1.93875
+247,2023-03-12,Mercado da FamÃ­lia,RJ,Carne Bovina,Frutas,Adria,4.0,64.56,16.14
+248,2023-09-19,Mercadinho do Povo,RJ,MaÃ§Ã£,Frutas,Seara,14.0,59.92,4.28
+249,2022-01-11,AtacadÃ£o da Dutra,RJ,Banana,Frutas,Adria,19.0,57.08,3.004210526315789
+250,2022-01-03,Supermercado Popular,MG,MaÃ§Ã£,Frutas,Piracanjuba,5.0,74.07,14.813999999999998
+251,2022-09-25,Hiper Center,RJ,BrÃ³colis,Frutas,Friboi,3.0,21.37,7.123333333333334
+252,2023-04-13,AtacadÃ£o da Dutra,RJ,Frango,Frutas,ItambÃ©,14.0,23.3,1.6642857142857144
+253,2023-02-21,Quitanda da Esquina,RJ,BrÃ³colis,Frutas,Arcor,18.0,34.05,1.8916666666666664
+254,2023-08-22,Quitanda da Esquina,RJ,Queijo,Frutas,Garoto,1.0,14.03,14.03
+255,2023-12-13,Mercadinho Central,MG,Leite,Frutas,ItambÃ©,2.0,48.55,24.275
+256,2023-05-23,Lojinha do Bairro,RS,Banana,Frutas,Aurora,16.0,30.87,1.929375
+257,2023-02-04,Supermercado Tudo de Bom,RS,Carne Bovina,Frutas,Yoki,1.0,33.25,33.25
+258,2023-10-13,Mercado da FamÃ­lia,RJ,Banana,Frutas,Lacta,9.0,36.65,4.072222222222222
+259,2023-11-23,Mercado da FamÃ­lia,SP,Cenoura,Frutas,Friboi,18.0,5.52,0.3066666666666666
+260,2023-12-11,MercadÃ£o Central,RJ,Queijo,Frutas,PerdigÃ£o,13.0,36.72,2.8246153846153845
+261,2022-04-15,Supermercado Popular,SP,Carne Bovina,Frutas,Quaker,1.0,30.66,30.66
+262,2023-03-20,Supermercado Mundial,RJ,MaÃ§Ã£,Frutas,Yoki,18.0,90.49,5.027222222222222
+263,2022-01-21,Supermercado Popular,RJ,BrÃ³colis,Frutas,Yoki,3.0,64.09,21.363333333333333
+264,2022-05-23,Mercadinho do Lar,SP,Frango,Frutas,Piracanjuba,1.0,59.01,59.01
+265,2022-11-17,Mini Mercado SÃ£o JoÃ£o,RJ,MaÃ§Ã£,Frutas,ItambÃ©,14.0,48.45,3.460714285714286
+266,2023-07-22,Supermercado Mundial,RS,Frango,Frutas,Dona Benta,17.0,57.48,3.381176470588235
+267,2022-12-07,Mercadinho do Lar,MG,BrÃ³colis,Frutas,Sadia,5.0,3.05,0.61
+268,2023-10-16,Mercadinho do Povo,RS,Frango,Frutas,Dona Benta,14.0,65.7,4.692857142857143
+269,2023-06-20,Supermercado VarejÃ£o,RS,Carne Bovina,Frutas,Quaker,18.0,3.99,0.2216666666666666
+270,2023-01-15,Quitanda da Esquina,RS,Leite,Frutas,Piracanjuba,10.0,83.35,8.334999999999999
+271,2023-12-26,Mini Mercado SÃ£o JoÃ£o,SP,Queijo,Frutas,Tirolez,4.0,93.71,23.4275
+272,2022-11-23,Mercadinho do Povo,SP,MaÃ§Ã£,Frutas,Yoki,3.0,89.35,29.78333333333333
+273,2023-02-20,Supermercado Popular,SP,BrÃ³colis,Frutas,Quaker,18.0,74.63,4.146111111111111
+274,2023-06-15,Hiper Center,RS,Banana,Frutas,Sadia,12.0,99.25,8.270833333333334
+275,2023-06-11,Supermercado Bom PreÃ§o,MG,Carne Bovina,Frutas,Arcor,4.0,76.61,19.1525
+276,2023-05-23,Supermercado Tudo de Bom,RJ,BrÃ³colis,Frutas,Yoki,4.0,98.61,24.6525
+277,2022-04-09,Supermercado VarejÃ£o,RJ,Carne Bovina,Frutas,Arcor,10.0,63.67,6.367
+278,2023-10-30,Quitanda da Esquina,MG,Cenoura,Frutas,PerdigÃ£o,5.0,99.61,19.922
+279,2022-10-26,Mercadinho do Povo,RS,BrÃ³colis,Frutas,Quaker,12.0,96.71,8.059166666666666
+280,2022-03-22,Lojinha do Bairro,MG,Cenoura,Frutas,Quaker,8.0,17.01,2.12625
+281,2022-09-19,MercadÃ£o Central,RJ,Queijo,Frutas,Sadia,19.0,86.71,4.563684210526316
+282,2023-02-02,Lojinha do Bairro,RS,Carne Bovina,Frutas,Quaker,4.0,91.98,22.995
+283,2023-10-26,Supermercado Popular,RS,Leite,Frutas,Lacta,18.0,98.34,5.463333333333334
+284,2022-06-08,MercadÃ£o Central,SP,Frango,Frutas,Aurora,18.0,39.37,2.187222222222222
+285,2022-09-30,Mercadinho Central,MG,Leite,Frutas,ItambÃ©,19.0,78.46,4.129473684210526
+286,2023-06-04,Supermarket Plus,RJ,Leite,Frutas,Yoki,16.0,35.35,2.209375
+287,2023-04-29,Mercadinho do Lar,SP,Frango,Frutas,NestlÃ©,18.0,27.17,1.5094444444444446
+288,2023-03-06,Mercadinho do Povo,RJ,Carne Bovina,Frutas,Tirolez,13.0,34.57,2.6592307692307693
+289,2022-04-28,Mercadinho do Povo,SP,Frango,Frutas,Dona Benta,8.0,16.04,2.005
+290,2023-01-20,Hiper Center,RS,Leite,Frutas,Aurora,1.0,69.77,69.77
+291,2022-02-03,Supermercado Popular,RS,Leite,Frutas,Qualy,16.0,45.88,2.8675
+292,2022-06-23,AtacadÃ£o da Dutra,SP,Carne Bovina,Frutas,Garoto,5.0,60.15,12.03
+293,2022-01-30,Supermercado Mundial,RS,Banana,Frutas,NestlÃ©,19.0,23.71,1.2478947368421054
+294,2023-10-21,Mercadinho do Povo,RS,Frango,Frutas,Dona Benta,15.0,29.48,1.9653333333333332
+295,2023-02-19,Mercado Fresquinho,SP,Leite,Frutas,Arcor,13.0,33.88,2.6061538461538465
+296,2023-09-24,Mercado Fresquinho,RS,Carne Bovina,Frutas,Quaker,4.0,97.66,24.415
+297,2023-09-16,Mercado da FamÃ­lia,SP,BrÃ³colis,Frutas,Lacta,1.0,33.46,33.46
+298,2022-02-11,AtacadÃ£o da Dutra,SP,Cenoura,Frutas,NestlÃ©,13.0,7.63,0.5869230769230769
+299,2022-05-29,Supermercado Bom PreÃ§o,RS,BrÃ³colis,Frutas,Aurora,7.0,10.48,1.497142857142857
+300,2023-10-21,Mercadinho Central,RJ,Banana,Frutas,Yoki,17.0,64.8,3.8117647058823527
+301,2022-10-27,Mini Mercado SÃ£o JoÃ£o,SP,Carne Bovina,Frutas,Arcor,12.0,1.45,0.1208333333333333
+302,2022-03-18,Mercado Total,RJ,Leite,Frutas,Arcor,6.0,72.95,12.158333333333331
+303,2023-12-09,Supermercado Tudo de Bom,MG,MaÃ§Ã£,Frutas,Quaker,16.0,40.21,2.513125
+304,2023-04-21,Hipermercado EconÃ´mico,SP,Banana,Frutas,Adria,8.0,51.02,6.3775
+305,2022-12-05,Supermercado Popular,SP,MaÃ§Ã£,Frutas,Arcor,14.0,47.3,3.378571428571429
+306,2022-11-18,Mercado da FamÃ­lia,SP,Carne Bovina,Frutas,Lacta,1.0,63.66,63.66
+307,2023-02-19,AtacadÃ£o da Dutra,SP,BrÃ³colis,Frutas,Garoto,7.0,16.02,2.2885714285714287
+308,2022-07-17,Hiper Center,RJ,Queijo,Frutas,Garoto,2.0,97.1,48.55
+309,2023-07-07,Mercadinho do Povo,SP,Frango,Frutas,Bauducco,1.0,15.56,15.56
+310,2022-06-22,Lojinha do Bairro,RJ,Carne Bovina,Frutas,NestlÃ©,18.0,2.23,0.1238888888888888
+311,2023-08-17,Supermercado Bom PreÃ§o,RJ,Banana,Frutas,Bauducco,9.0,26.84,2.982222222222222
+312,2022-02-09,Supermercado Bom PreÃ§o,RS,Queijo,Frutas,ItambÃ©,13.0,74.8,5.753846153846154
+313,2023-03-20,Lojinha do Bairro,RJ,BrÃ³colis,Frutas,Seara,8.0,43.16,5.395
+314,2022-04-19,Supermarket Plus,RJ,MaÃ§Ã£,Frutas,Seara,11.0,98.78,8.98
+315,2023-12-16,Mini Mercado SÃ£o JoÃ£o,MG,BrÃ³colis,Frutas,NestlÃ©,17.0,30.01,1.765294117647059
+316,2023-07-04,Supermarket Plus,SP,MaÃ§Ã£,Frutas,Tirolez,14.0,84.17,6.012142857142857
+317,2022-09-11,Supermercado Tudo de Bom,RS,Leite,Frutas,Piracanjuba,18.0,90.81,5.045
+318,2023-04-05,Hipermercado EconÃ´mico,SP,Cenoura,Frutas,Bauducco,14.0,47.01,3.3578571428571427
+319,2022-03-24,Mercado Fresquinho,RJ,MaÃ§Ã£,Frutas,Lacta,12.0,13.36,1.1133333333333333
+320,2022-01-18,Supermercado Bom PreÃ§o,MG,Cenoura,Frutas,Bauducco,10.0,42.03,4.203
+321,2022-12-13,Supermercado Bom PreÃ§o,RS,Carne Bovina,Frutas,Vigor,3.0,41.04,13.68
+322,2023-04-12,Mercado Fresquinho,MG,Frango,Frutas,Dona Benta,11.0,20.53,1.8663636363636364
+323,2022-03-17,Supermarket Plus,RS,Frango,Frutas,Bauducco,4.0,8.43,2.1075
+324,2022-12-25,MercadÃ£o Central,MG,Frango,Frutas,Friboi,2.0,53.03,26.515
+325,2023-09-29,Supermercado EsperanÃ§a,MG,MaÃ§Ã£,Frutas,ItambÃ©,9.0,40.79,4.532222222222222
+326,2022-10-14,Supermarket Plus,SP,Cenoura,Frutas,Seara,18.0,31.56,1.7533333333333332
+327,2023-02-20,Supermercado Popular,RS,Queijo,Frutas,Arcor,16.0,80.64,5.04
+328,2022-11-10,Supermercado EsperanÃ§a,MG,Queijo,Frutas,Quaker,1.0,10.48,10.48
+329,2023-01-20,MercadÃ£o Central,SP,BrÃ³colis,Frutas,Qualy,19.0,80.04,4.212631578947369
+330,2023-05-24,Lojinha do Bairro,MG,MaÃ§Ã£,Frutas,Friboi,14.0,93.97,6.712142857142857
+331,2023-05-03,Hiper Center,RJ,Carne Bovina,Frutas,Lacta,4.0,68.66,17.165
+332,2023-03-24,Supermercado VarejÃ£o,RJ,Banana,Frutas,Tirolez,6.0,17.98,2.9966666666666666
+333,2023-07-16,Mercado Fresquinho,SP,Cenoura,Frutas,Heinz,13.0,8.03,0.6176923076923077
+334,2023-04-06,Mini Mercado SÃ£o JoÃ£o,RS,MaÃ§Ã£,Frutas,PerdigÃ£o,11.0,70.18,6.380000000000001
+335,2023-08-31,Supermercado Popular,SP,Queijo,Frutas,Seara,18.0,27.93,1.5516666666666667
+336,2023-09-20,Mercadinho do Lar,MG,Frango,Frutas,Friboi,1.0,60.46,60.46
+337,2023-01-30,Supermercado VarejÃ£o,RS,Banana,Frutas,Quaker,19.0,18.17,0.9563157894736845
+338,2022-08-08,Hipermercado EconÃ´mico,MG,Carne Bovina,Frutas,ItambÃ©,13.0,15.39,1.183846153846154
+339,2023-03-02,Mercado Fresquinho,MG,Banana,Frutas,Arcor,17.0,80.34,4.725882352941177
+340,2022-02-14,Mercado Total,MG,Leite,Frutas,Qualy,1.0,38.21,38.21
+341,2023-08-24,Mercadinho do Povo,RS,Queijo,Frutas,Vigor,3.0,84.77,28.256666666666664
+342,2022-07-20,Supermercado Mundial,RJ,Cenoura,Frutas,Sadia,1.0,94.74,94.74
+343,2022-10-21,Supermercado Mundial,RS,Cenoura,Frutas,Yoki,8.0,89.39,11.17375
+344,2022-06-12,Supermercado Mundial,SP,Banana,Frutas,Vigor,10.0,71.41,7.141
+345,2023-03-28,Mercadinho do Lar,RS,Leite,Frutas,Garoto,12.0,38.95,3.2458333333333336
+346,2023-06-22,Supermercado EsperanÃ§a,RJ,MaÃ§Ã£,Frutas,Heinz,1.0,54.54,54.54
+347,2023-05-13,Mercado Total,MG,BrÃ³colis,Frutas,Seara,4.0,81.62,20.405
+348,2022-04-29,Supermercado Tudo de Bom,SP,BrÃ³colis,Frutas,Lacta,13.0,99.22,7.632307692307692
+349,2022-05-17,Mercadinho do Lar,RS,BrÃ³colis,Frutas,ItambÃ©,16.0,26.11,1.631875
+350,2023-01-05,Hiper Center,RS,Banana,Frutas,Bauducco,6.0,55.3,9.216666666666669
+351,2023-11-26,Mercadinho do Lar,SP,Carne Bovina,Frutas,Quaker,5.0,54.63,10.926
+352,2022-03-31,Mercado Total,RS,Frango,Frutas,Piracanjuba,7.0,17.27,2.467142857142857
+353,2023-12-28,Quitanda da Esquina,SP,Carne Bovina,Frutas,PerdigÃ£o,1.0,5.76,5.76
+354,2023-02-22,Supermercado EsperanÃ§a,RS,Banana,Frutas,PerdigÃ£o,16.0,47.33,2.958125
+355,2023-02-23,Mercado da FamÃ­lia,MG,Cenoura,Frutas,PerdigÃ£o,6.0,4.6,0.7666666666666666
+356,2022-07-15,Mercadinho do Lar,SP,Banana,Frutas,Lacta,12.0,28.61,2.3841666666666668
+357,2022-05-10,Supermercado VarejÃ£o,RS,Banana,Frutas,Lacta,6.0,54.05,9.008333333333333
+358,2023-02-20,Lojinha do Bairro,RS,Carne Bovina,Frutas,Aurora,18.0,64.84,3.602222222222222
+359,2022-03-19,Mercado Fresquinho,MG,Banana,Frutas,Garoto,18.0,80.86,4.492222222222222
+360,2022-11-06,Supermercado EsperanÃ§a,RS,Queijo,Frutas,Tirolez,10.0,24.03,2.403
+361,2023-06-02,Mercadinho do Lar,MG,BrÃ³colis,Frutas,NestlÃ©,4.0,41.7,10.425
+362,2023-05-15,MercadÃ£o Central,MG,Cenoura,Frutas,Friboi,8.0,26.34,3.2925
+363,2023-03-11,Mercadinho do Lar,RJ,Cenoura,Frutas,Quaker,5.0,23.97,4.794
+364,2022-06-01,Mini Mercado SÃ£o JoÃ£o,SP,BrÃ³colis,Frutas,Quaker,9.0,86.43,9.603333333333332
+365,2023-11-01,Hiper Center,SP,MaÃ§Ã£,Frutas,Seara,13.0,59.44,4.572307692307692
+366,2022-10-31,Hiper Center,SP,Banana,Frutas,Dona Benta,19.0,48.94,2.5757894736842104
+367,2022-05-07,Mercadinho do Povo,RJ,Banana,Frutas,Adria,8.0,56.92,7.115
+368,2023-10-13,Mercadinho do Lar,RS,MaÃ§Ã£,Frutas,PerdigÃ£o,1.0,34.91,34.91
+369,2022-12-08,Supermercado Bom PreÃ§o,SP,Frango,Frutas,Aurora,8.0,75.51,9.43875
+370,2023-01-30,AtacadÃ£o da Dutra,RS,Queijo,Frutas,Yoki,2.0,47.88,23.94
+371,2022-05-13,Quitanda da Esquina,SP,Cenoura,Frutas,Dona Benta,11.0,91.05,8.277272727272727
+372,2023-07-05,Quitanda da Esquina,MG,BrÃ³colis,Frutas,Aurora,11.0,77.17,7.015454545454546
+373,2022-11-25,Mercadinho do Povo,RS,Carne Bovina,Frutas,Adria,16.0,84.22,5.26375
+374,2023-07-18,Mercado Total,SP,Frango,Frutas,Quaker,9.0,27.0,3.0
+375,2022-12-10,Supermarket Plus,SP,Queijo,Frutas,Heinz,8.0,12.51,1.56375
+376,2023-11-02,Mercadinho do Lar,RJ,Banana,Frutas,Garoto,15.0,15.9,1.06
+377,2022-10-19,AtacadÃ£o da Dutra,SP,Leite,Frutas,Bauducco,6.0,29.23,4.871666666666667
+378,2022-06-11,Supermarket Plus,MG,MaÃ§Ã£,Frutas,Friboi,10.0,27.44,2.744
+379,2022-10-06,Mercado Fresquinho,MG,Carne Bovina,Frutas,Tirolez,12.0,65.13,5.427499999999999
+380,2022-09-29,Supermercado Tudo de Bom,RJ,BrÃ³colis,Frutas,Yoki,10.0,41.51,4.151
+381,2023-10-07,Hiper Center,SP,Carne Bovina,Frutas,Piracanjuba,19.0,24.58,1.2936842105263158
+382,2022-09-20,Supermercado Mundial,SP,Frango,Frutas,ItambÃ©,3.0,84.41,28.136666666666667
+383,2023-12-26,Mercado Total,RS,Queijo,Frutas,Piracanjuba,14.0,88.28,6.305714285714286
+384,2022-01-26,Mercadinho do Povo,RS,Queijo,Frutas,Yoki,19.0,78.99,4.157368421052631
+385,2022-12-05,Mini Mercado SÃ£o JoÃ£o,MG,BrÃ³colis,Frutas,NestlÃ©,16.0,67.56,4.2225
+386,2022-12-07,Supermercado Tudo de Bom,MG,Cenoura,Frutas,Seara,1.0,49.54,49.54
+387,2022-09-03,Supermercado Popular,MG,Leite,Frutas,Lacta,3.0,4.91,1.6366666666666667
+388,2022-01-31,Mercadinho Central,RS,Carne Bovina,Frutas,Seara,18.0,94.21,5.233888888888888
+389,2022-09-14,Supermarket Plus,RJ,Carne Bovina,Frutas,Yoki,15.0,89.81,5.987333333333334
+390,2022-02-03,Supermercado Popular,RJ,Banana,Frutas,Qualy,18.0,21.06,1.17
+391,2022-12-31,AtacadÃ£o da Dutra,RS,Queijo,Frutas,Lacta,10.0,83.14,8.314
+392,2023-10-12,Mercado Fresquinho,RJ,Queijo,Frutas,PerdigÃ£o,2.0,19.2,9.6
+393,2022-10-24,AtacadÃ£o da Dutra,RJ,Frango,Frutas,Friboi,12.0,44.24,3.686666666666667
+394,2023-02-07,Supermercado Mundial,MG,Carne Bovina,Frutas,Tirolez,9.0,95.06,10.562222222222225
+395,2022-05-02,Hipermercado EconÃ´mico,MG,Carne Bovina,Frutas,Friboi,8.0,40.66,5.0825
+396,2023-03-07,Mini Mercado SÃ£o JoÃ£o,RS,Cenoura,Frutas,Quaker,15.0,50.64,3.376
+397,2022-02-04,Mercado da FamÃ­lia,MG,BrÃ³colis,Frutas,Vigor,7.0,79.3,11.328571428571427
+398,2023-10-27,Mercado Fresquinho,RJ,Carne Bovina,Frutas,Tirolez,17.0,68.87,4.051176470588236
+399,2022-01-20,Supermercado Bom PreÃ§o,SP,BrÃ³colis,Frutas,Lacta,14.0,55.5,3.9642857142857135
+400,2022-02-04,Supermercado Mundial,RS,Leite,Frutas,NestlÃ©,11.0,3.01,0.2736363636363636
+401,2022-06-05,Mercado da FamÃ­lia,RJ,MaÃ§Ã£,Frutas,Tirolez,5.0,36.63,7.326
+402,2023-04-07,Mercadinho Central,RS,Frango,Frutas,PerdigÃ£o,5.0,1.62,0.324
+403,2023-05-07,Supermercado Tudo de Bom,SP,Carne Bovina,Frutas,Arcor,1.0,25.41,25.41
+404,2023-12-10,Supermercado EsperanÃ§a,RS,Queijo,Frutas,Aurora,2.0,31.41,15.705
+405,2022-03-16,AtacadÃ£o da Dutra,SP,Banana,Frutas,Sadia,4.0,23.75,5.9375
+406,2023-05-26,MercadÃ£o Central,SP,Queijo,Frutas,Garoto,6.0,23.9,3.983333333333333
+407,2022-05-10,Supermercado Popular,MG,Leite,Frutas,Bauducco,1.0,99.76,99.76
+408,2022-10-04,Mercadinho Central,SP,Cenoura,Frutas,NestlÃ©,10.0,34.88,3.4880000000000004
+409,2022-06-24,Mercado Total,MG,Cenoura,Frutas,Friboi,13.0,36.69,2.822307692307692
+410,2023-06-08,Supermercado Mundial,RJ,Cenoura,Frutas,Sadia,2.0,49.67,24.835
+411,2022-11-15,Supermarket Plus,RJ,BrÃ³colis,Frutas,Arcor,14.0,85.09,6.077857142857143
+412,2023-03-11,Mercadinho do Lar,RJ,Frango,Frutas,ItambÃ©,5.0,69.64,13.928
+413,2022-03-02,Mercado Fresquinho,RJ,Cenoura,Frutas,Adria,5.0,66.3,13.26
+414,2022-05-05,AtacadÃ£o da Dutra,RS,Banana,Frutas,Adria,13.0,4.12,0.3169230769230769
+415,2023-09-06,Mercado da FamÃ­lia,RJ,Queijo,Frutas,Bauducco,1.0,52.61,52.61
+416,2022-07-01,Mercado Fresquinho,RJ,Cenoura,Frutas,Arcor,5.0,3.84,0.768
+417,2023-11-09,Hiper Center,RS,MaÃ§Ã£,Frutas,Dona Benta,18.0,36.94,2.052222222222222
+418,2023-12-12,AtacadÃ£o da Dutra,RS,Frango,Frutas,PerdigÃ£o,6.0,40.07,6.678333333333334
+419,2023-01-15,Mercado da FamÃ­lia,RS,Frango,Frutas,Dona Benta,11.0,33.93,3.0845454545454545
+420,2023-03-26,Mercadinho Central,RS,Queijo,Frutas,Adria,7.0,24.69,3.527142857142857
+421,2022-11-13,Mercadinho Central,MG,Queijo,Frutas,Dona Benta,19.0,46.03,2.4226315789473687
+422,2023-07-28,Supermercado VarejÃ£o,MG,Queijo,Frutas,Lacta,2.0,77.09,38.545
+423,2022-06-20,MercadÃ£o Central,MG,Frango,Frutas,ItambÃ©,10.0,71.66,7.166
+424,2023-11-11,Supermercado Bom PreÃ§o,SP,Leite,Frutas,ItambÃ©,3.0,74.12,24.706666666666667
+425,2023-01-11,MercadÃ£o Central,MG,Queijo,Frutas,Adria,2.0,55.97,27.985
+426,2023-06-27,Supermercado EsperanÃ§a,MG,Cenoura,Frutas,Vigor,10.0,89.54,8.954
+427,2022-03-12,Quitanda da Esquina,SP,MaÃ§Ã£,Frutas,Adria,12.0,28.12,2.3433333333333333
+428,2022-10-10,Supermercado Popular,RJ,Cenoura,Frutas,Qualy,1.0,46.73,46.73
+429,2022-07-10,Mercadinho Central,RJ,Banana,Frutas,ItambÃ©,3.0,95.56,31.85333333333333
+430,2022-10-05,Mini Mercado SÃ£o JoÃ£o,RS,BrÃ³colis,Frutas,Aurora,8.0,97.57,12.19625
+431,2023-09-03,Mercado Fresquinho,SP,Banana,Frutas,NestlÃ©,6.0,66.82,11.136666666666663
+432,2022-07-22,Quitanda da Esquina,RJ,Cenoura,Frutas,Quaker,2.0,3.43,1.715
+433,2022-12-11,Hiper Center,SP,Banana,Frutas,ItambÃ©,5.0,49.76,9.952
+434,2023-10-25,Mini Mercado SÃ£o JoÃ£o,RJ,Frango,Frutas,Vigor,3.0,23.7,7.899999999999999
+435,2023-02-25,Mercadinho do Povo,SP,Cenoura,Frutas,Yoki,4.0,81.5,20.375
+436,2023-10-14,Supermercado VarejÃ£o,RJ,MaÃ§Ã£,Frutas,Yoki,18.0,64.67,3.592777777777778
+437,2022-05-02,Supermercado VarejÃ£o,RJ,Banana,Frutas,Seara,8.0,8.31,1.03875
+438,2023-06-29,Mercado da FamÃ­lia,RS,Queijo,Frutas,Sadia,9.0,4.06,0.4511111111111111
+439,2022-07-28,Supermercado EsperanÃ§a,RJ,Queijo,Frutas,Vigor,5.0,5.78,1.156
+440,2023-01-30,Mercadinho Central,SP,Frango,Frutas,Sadia,12.0,74.63,6.219166666666666
+441,2023-07-06,Mercado Fresquinho,SP,Queijo,Frutas,Heinz,3.0,12.33,4.11
+442,2023-12-10,Supermarket Plus,MG,Frango,Frutas,Piracanjuba,1.0,38.29,38.29
+443,2022-02-18,Mercado Fresquinho,RJ,Cenoura,Frutas,Arcor,4.0,7.91,1.9775
+444,2023-09-11,Supermercado Mundial,MG,Banana,Frutas,Friboi,13.0,74.25,5.711538461538462
+445,2023-11-27,Supermercado Mundial,SP,Carne Bovina,Frutas,Friboi,18.0,49.0,2.7222222222222223
+446,2022-02-25,Hiper Center,SP,BrÃ³colis,Frutas,Adria,14.0,52.53,3.752142857142857
+447,2022-09-20,Mercado Fresquinho,MG,Cenoura,Frutas,Adria,15.0,20.89,1.3926666666666667
+448,2023-09-04,Supermercado Tudo de Bom,SP,Cenoura,Frutas,Qualy,3.0,37.05,12.35
+449,2022-05-20,Mercado Fresquinho,RJ,MaÃ§Ã£,Frutas,Sadia,12.0,74.58,6.215
+450,2023-09-10,Mercado Fresquinho,RJ,Leite,Frutas,ItambÃ©,17.0,50.0,2.9411764705882355
+451,2023-07-28,Supermercado Tudo de Bom,MG,BrÃ³colis,Frutas,NestlÃ©,19.0,96.3,5.068421052631579
+452,2023-03-03,Supermercado Bom PreÃ§o,RS,Frango,Frutas,Qualy,17.0,50.34,2.9611764705882355
+453,2022-01-20,Mercadinho Central,SP,Carne Bovina,Frutas,Aurora,2.0,95.08,47.54
+454,2022-08-10,Mercadinho do Povo,RJ,Queijo,Frutas,Qualy,17.0,24.2,1.423529411764706
+455,2022-10-04,Supermercado Popular,SP,BrÃ³colis,Frutas,Arcor,10.0,55.98,5.598
+456,2023-08-22,Hipermercado EconÃ´mico,RJ,Cenoura,Frutas,Sadia,10.0,33.37,3.337
+457,2023-08-04,Mercadinho Central,RS,BrÃ³colis,Frutas,NestlÃ©,16.0,64.7,4.04375
+458,2022-11-08,Hiper Center,SP,Queijo,Frutas,Yoki,18.0,24.94,1.3855555555555557
+459,2023-01-10,Mercadinho Central,SP,Leite,Frutas,PerdigÃ£o,16.0,80.42,5.02625
+460,2022-12-16,Mercadinho Central,MG,Banana,Frutas,Piracanjuba,8.0,87.77,10.97125
+461,2022-11-23,Supermercado Bom PreÃ§o,RJ,Leite,Frutas,Aurora,16.0,94.61,5.913125
+462,2023-02-17,MercadÃ£o Central,RS,Carne Bovina,Frutas,Yoki,6.0,96.39,16.065
+463,2023-05-15,Mercadinho do Lar,RJ,Leite,Frutas,Friboi,3.0,92.89,30.96333333333333
+464,2022-02-28,Quitanda da Esquina,RJ,Banana,Frutas,Lacta,19.0,70.56,3.713684210526316
+465,2022-02-24,Mercado Fresquinho,SP,Frango,Frutas,Yoki,17.0,41.58,2.4458823529411764
+466,2022-07-30,MercadÃ£o Central,SP,Cenoura,Frutas,Arcor,12.0,71.28,5.94
+467,2023-07-23,Mini Mercado SÃ£o JoÃ£o,RJ,Banana,Frutas,PerdigÃ£o,3.0,60.86,20.286666666666665
+468,2022-01-25,Mini Mercado SÃ£o JoÃ£o,SP,Queijo,Frutas,NestlÃ©,2.0,63.74,31.87
+469,2022-05-17,Mercado da FamÃ­lia,MG,Banana,Frutas,Adria,10.0,33.08,3.308
+470,2022-03-25,Mercadinho do Povo,SP,BrÃ³colis,Frutas,Sadia,7.0,76.4,10.914285714285716
+471,2022-07-11,Supermarket Plus,RJ,Banana,Frutas,Qualy,14.0,31.76,2.2685714285714287
+472,2023-05-10,MercadÃ£o Central,RJ,MaÃ§Ã£,Frutas,Dona Benta,18.0,75.14,4.174444444444444
+473,2022-11-06,Supermercado VarejÃ£o,RS,Queijo,Frutas,Friboi,10.0,81.2,8.120000000000001
+474,2023-11-10,Supermercado VarejÃ£o,RS,Carne Bovina,Frutas,Adria,9.0,7.52,0.8355555555555555
+475,2023-10-04,Mercadinho do Lar,MG,Queijo,Frutas,Garoto,13.0,12.04,0.926153846153846
+476,2022-08-15,Hipermercado EconÃ´mico,RJ,Queijo,Frutas,Bauducco,15.0,22.29,1.486
+477,2022-06-15,Mercadinho Central,RS,Cenoura,Frutas,Adria,12.0,8.18,0.6816666666666666
+478,2022-09-24,Mercado Total,SP,Carne Bovina,Frutas,Seara,2.0,64.71,32.355
+479,2023-05-27,Mini Mercado SÃ£o JoÃ£o,RS,MaÃ§Ã£,Frutas,Garoto,17.0,5.05,0.2970588235294117
+480,2023-06-29,Mini Mercado SÃ£o JoÃ£o,SP,Leite,Frutas,ItambÃ©,16.0,22.03,1.376875
+481,2022-05-16,Hiper Center,RS,Carne Bovina,Frutas,Quaker,5.0,29.36,5.872
+482,2023-08-16,Mercadinho Central,RJ,BrÃ³colis,Frutas,Garoto,15.0,62.53,4.168666666666667
+483,2023-05-02,Supermercado VarejÃ£o,RJ,BrÃ³colis,Frutas,Adria,19.0,99.82,5.253684210526315
+484,2023-08-27,Mercadinho Central,MG,Banana,Frutas,Quaker,16.0,11.12,0.695
+485,2022-08-25,Hiper Center,SP,Banana,Frutas,Seara,13.0,84.87,6.5284615384615385
+486,2023-11-18,Supermercado Mundial,SP,Carne Bovina,Frutas,Friboi,17.0,75.75,4.455882352941177
+487,2023-11-01,Mercadinho Central,MG,Queijo,Frutas,Quaker,16.0,62.03,3.876875
+488,2022-05-18,Quitanda da Esquina,SP,Queijo,Frutas,Garoto,13.0,73.53,5.656153846153846
+489,2023-04-02,Mercado da FamÃ­lia,SP,Queijo,Frutas,Adria,15.0,42.48,2.832
+490,2023-08-14,Mercadinho Central,RS,Leite,Frutas,Aurora,10.0,27.34,2.734
+491,2022-03-08,Supermercado Popular,SP,MaÃ§Ã£,Frutas,Aurora,3.0,74.72,24.906666666666663
+492,2022-10-30,Supermercado Bom PreÃ§o,RS,Leite,Frutas,Dona Benta,10.0,78.27,7.827
+493,2022-03-15,Hipermercado EconÃ´mico,MG,Cenoura,Frutas,NestlÃ©,19.0,82.75,4.355263157894737
+494,2022-08-02,MercadÃ£o Central,SP,BrÃ³colis,Frutas,Aurora,3.0,20.81,6.9366666666666665
+495,2023-09-19,MercadÃ£o Central,RS,BrÃ³colis,Frutas,PerdigÃ£o,8.0,74.05,9.25625
+496,2023-02-17,AtacadÃ£o da Dutra,SP,Banana,Frutas,Piracanjuba,3.0,50.58,16.86
+497,2023-01-26,Hiper Center,RS,Frango,Frutas,Dona Benta,12.0,58.58,4.881666666666667
+498,2022-11-27,Supermercado Bom PreÃ§o,RS,Cenoura,Frutas,Lacta,12.0,6.95,0.5791666666666667
+499,2022-10-03,Mini Mercado SÃ£o JoÃ£o,RS,MaÃ§Ã£,Frutas,Lacta,6.0,42.25,7.041666666666667
